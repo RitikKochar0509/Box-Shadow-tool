@@ -1,0 +1,38 @@
+.App{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 80vh;
+
+}
+
+.input{
+  display: flex;
+  flex-direction: column;
+  width: 40vw;
+}
+p{
+  color: black;
+
+  
+}
+.box{
+  width: 40vw;
+  height: 50vh;
+  text-align: center;
+  
+  background-color: blueviolet;
+  color: white;
+}
+
+.author{
+  font-weight: bold;
+  float: right;
+  font-size: 30px;
+  font-family: cursive;
+  color: rgb(54, 76, 76) ;
+  margin-right: 30px;
+  
+}
+
+
